@@ -1,0 +1,42 @@
+{% extends 'Company/companyindex.html' %}
+{% block body %}
+
+
+    <div class="container">
+    <form method="post" action="/myapp/add_job_skill_post/" enctype="multipart/form-data">
+    {% csrf_token %}
+    <table border="1" class="table table-bordered table-hover" >
+
+
+        <tr>
+             <th>Skill</th>
+             <th>
+
+                 <select name="skill" class="form-control" required>
+                     {% for i in data %}
+                     <option value="{{ i.id }}">{{ i.skill  }}</option>
+                     {% endfor %}
+                 </select>
+             </th>
+        </tr> <tr>
+             <th>Job</th>
+             <th>
+
+                 <select name="job" class="form-control" required>
+                     {% for i in data2 %}
+                     <option value="{{ i.id }}">{{ i.jobname  }}</option>
+                     {% endfor %}
+                 </select>
+             </th>
+
+        </tr>
+    <tr>
+        <td></td>
+    <td><input type="submit" class="btn btn-success"></td>
+    </tr>
+
+    </table>
+</form>
+
+    </div>
+{% endblock %}

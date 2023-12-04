@@ -1,0 +1,51 @@
+{% extends 'Company/companyindex.html' %}
+{% block body %}
+
+<form method="post" action="/myapp/view_confirmed_job_application_post/#about">
+    {% csrf_token %}
+<table class="pull-left">
+   <tr>
+        <td>From</td>
+        <td>
+            <input type="date" placeholder="" required name="f" class="form-control">
+        </td>
+        <td>To</td>
+         <td>
+            <input type="date" placeholder="" required name="t" class="form-control">
+        </td>
+        <td>
+            <input type="submit" value="Search" class="btn btn-outline-primary rounded-start-5">
+        </td>
+</table>
+<br>
+
+    <table class="table table-bordered table-stripped" border="1">
+        <tr>
+
+
+
+            <th>Sl no</th>
+            <th>Job Name</th>
+            <th>User Name</th>
+            <th>Date </th>
+            <th>Status </th>
+
+
+        </tr>
+        {% for i in data %}
+        <tr>
+            <td width="50px">{{ forloop.counter }}</td>
+            <td>{{ i.JOB.jobname }}</td>
+            <td>{{ i.USER.name }}</td>
+            <td>{{ i.date }}</td>
+            <td  width="100px" class="text-success fw-bold">{{ i.status }}</td>
+
+
+        </tr>
+        {% endfor %}
+
+    </table>
+
+</form>
+
+{% endblock %}

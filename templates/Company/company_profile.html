@@ -1,0 +1,49 @@
+{% extends 'Company/companyindex.html' %}
+{% block body %}
+
+<form method="post" action="" enctype="multipart/form-data">
+    {% csrf_token %}
+
+    <center>
+    <div>
+    <div class="col-6">
+
+    <table class="table table-bordered">
+
+        <tr>
+            <th>Name</th>
+          <td>
+              <img src="{{ data.logo }}" width="=150px" height="150px"><br>
+              {{ data.name }}
+          </td>        </tr>
+        <tr>
+            <th>Email</th>
+        <td>{{ data.email }}</td>
+        </tr>  <tr>
+            <th>Phone</th>
+        <td>{{ data.phone }}</td>
+        </tr>
+
+
+        <tr>
+            <th>Address</th>
+        <td>
+
+            {{ data.place }}<br>
+            {{ data.pin }}<br>
+            {{ data.post }}<br>
+
+        </td>
+        </tr>
+
+         <tr>
+            <th></th>
+             <td><a href="/myapp/edit_company/{{ data.id }}#about" class="btn btn-outline-success" >Edit</a></td>
+        </tr>
+    </table>
+    </div>
+    </div>
+    </center>
+</form>
+
+{% endblock %}

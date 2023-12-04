@@ -1,0 +1,55 @@
+{% extends 'Company/companyindex.html' %}
+{% block body %}
+    <div class="containre">
+    <form method="post" action="/myapp/add_jobs_post/" enctype="multipart/form-data">
+    {% csrf_token %}
+    <table class="table table-bordered">
+
+
+        <tr>
+             <th width="180px">Category</th>
+             <th>
+
+                 <select name="cat" class="form-control" required>
+                     {% for i in data %}
+                     <option required value="{{ i.id }}">{{ i.category_name  }}</option>
+                     {% endfor %}
+                 </select>
+             </th>
+        </tr>
+        <tr>
+
+            <th>Job Name</th>
+            <td><input type="text" name="name"   class="form-control" required pattern="[a-z A-Z]+"></td>
+        </tr>
+
+
+
+        <tr>
+
+            <th>Interview Date</th>
+            <td><input type="date" name="Interview" min="{{ dt }}"  class="form-control" required></td>
+        </tr>  <tr>
+            <th>Qualification</th>
+            <td><input type="text"  class="form-control" name="qualification" required ></td>
+        </tr>  <tr>
+            <th>salary</th>
+            <td><input type="number" pattern="[0-9]"  class="form-control" name="salary" required  ></td>
+        </tr>
+
+        <tr>
+            <th>Experience</th>
+            <td><input type="text"   class="form-control" name="experience" required></td>
+        </tr>
+
+
+
+         <tr>
+            <th></th>
+            <td><input type="submit"  class="btn btn-success" ></td>
+        </tr>
+    </table>
+</form>
+
+    </div>
+{% endblock %}

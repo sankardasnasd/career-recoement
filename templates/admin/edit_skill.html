@@ -1,0 +1,21 @@
+{% extends 'admin/adminindex.html' %}
+{% block body %}
+    <div class="container">
+    <form method="post" action="/myapp/edit_skill_post/#about">
+    {% csrf_token %}
+    <table class="table table-hover table-bordered table-sripped">
+        <tr>
+            <input type="hidden" name="id" value="{{ data.id }}">
+            <th>Skill</th>
+            <td><input type="text" class="form-control" pattern="[a-z A-Z]+" name="skill" value="{{ data.skill }}"></td>
+        </tr>
+        <tr>
+            <th></th>
+            <td><input type="submit" class="btn btn-success" ></td>
+        </tr>
+    </table>
+
+</form>
+
+    </div>
+{% endblock %}

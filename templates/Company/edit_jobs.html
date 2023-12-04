@@ -1,0 +1,52 @@
+{% extends 'Company/companyindex.html' %}
+{% block body %}
+
+<form method="post" action="/myapp/edit_jobs_post/#about" enctype="multipart/form-data">
+    {% csrf_token %}
+    <table border="1" class="table table-bordered table-hovered">
+
+
+        <tr>
+             <th width="180px">Category</th>
+             <th>
+
+                 <select name="cat" class="form-control">
+                     {% for i in data1 %}
+                         <option hidden value="{{ data.CATEGORY.id }}">{{ data.CATEGORY.category_name }}</option>
+                     <option value="{{ i.id }}">{{ i.category_name  }}</option>
+                     {% endfor %}
+                 </select>
+             </th>
+        </tr>
+        <tr>
+
+            <th>Job Name</th>
+            <input type="hidden" name="id" value="{{ data.id }}">
+            <td><input type="text" name="name"   value="{{ data.jobname }}" class="form-control"  pattern="[a-z A-Z]+"></td>
+        </tr>  <tr>
+            <th>Qualification</th>
+            <td><input type="text"  value="{{ data.qualification }}" class="form-control" name="qualification" ></td>
+        </tr>  <tr>
+            <th>Salary</th>
+            <td><input type="number"  value="{{ data.salary }}" class="form-control" name="salary" pattern="[0-9]"   ></td>
+        </tr>
+      <tr>
+
+            <th>Interview Date</th>
+            <td><input type="date" name="Interview" min="{{ dt }}" value="{{ data.interview_date|date:'Y-m-d' }}" class="form-control" required></td>
+        </tr>
+
+        <tr>
+            <th>Experience</th>
+            <td><input type="text" value="{{ data.experience }}"  class="form-control" name="experience" ></td>
+        </tr>
+
+
+
+         <tr>
+            <th></th>
+            <td><input type="submit"  class="btn btn-success" ></td>
+        </tr>
+    </table>
+</form>
+{% endblock %}

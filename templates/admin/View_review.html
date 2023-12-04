@@ -1,0 +1,72 @@
+{% extends 'admin/adminindex.html' %}
+{% block body %}
+
+    <style>
+
+.card {
+  border-radius: .7rem;
+}
+    </style>
+<form method="post" action="/myapp/view_review_post/#about">
+{% csrf_token %}
+
+
+    <table  class="pull-left ">
+
+    <tr>
+        <td>From</td>
+        <td>
+            <input type="date" placeholder="Search here"required name="f" class="form-control">
+        </td>
+        <td>To</td>
+         <td>
+            <input type="date" placeholder="Search here" required name="t" class="form-control">
+        </td>
+        <td>
+            <input type="submit" value="Search"class="btn btn-outline-primary  rounded-start-5">
+        </td>
+    </tr>
+</table>
+
+
+
+
+<section >
+  <div class="container py-2">
+
+    <div class="row text-center">
+        {% for i in var %}
+
+      <div class="col-md-3 mb-4 mb-md-0">
+        <div class="card">
+          <div class="card-body py-4 mt-2">
+            <div class="d-flex justify-content-center mb-4">
+              <img src="{{ i.USER.image }}"
+                class="rounded-circle" width="100" height="100" />
+            </div>
+            <h5 class="font-weight-bold">{{ i.USER.name }}</h5>
+            <h6 class="font-weight-bold my-3">{{ i.USER.email }}</h6>
+
+              Rated {{ i.rating }} out of 5
+
+            <p class="mb-2">
+              <i class="fas fa-quote-left pe-2"></i>
+              {{ i.review }}
+            </p>
+          </div>
+        </div>
+      </div>
+
+        {% endfor %}
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+</form>
+
+{% endblock %}

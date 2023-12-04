@@ -1,0 +1,41 @@
+{% extends 'Company/companyindex.html' %}
+{% block body %}
+
+<form method="post" action="/myapp/edit_jobskill_post/" enctype="multipart/form-data">
+    {% csrf_token %}
+    <table border="1" class="table table-bordered table-hover" >
+
+
+        <tr>
+             <th>Skill</th>
+             <th>
+             <input type="hidden" value="{{ data.id }}" name="id">
+
+                 <select name="skill" class="form-control">
+                     {% for i in data4 %}
+                     <option  hidden value="{{ data.SKILL.id }}">{{ data.SKILL.skil  }}</option>
+                     <option value="{{ i.id }}">{{ i.skil  }}</option>
+                     {% endfor %}
+                 </select>
+             </th>
+        </tr> <tr>
+             <th>Job</th>
+             <th>
+
+                 <select name="job" class="form-control">
+                     {% for i in data3 %}
+                     <option hidden value="{{ data.JOB.id }}">{{ data.JOB.jobname  }}</option>
+                     <option value="{{ i.id }}">{{ i.jobname  }}</option>
+                     {% endfor %}
+                 </select>
+             </th>
+
+        </tr>
+    <tr>
+        <td></td>
+    <td><input type="submit" class="btn btn-success"></td>
+    </tr>
+
+    </table>
+</form>
+{% endblock %}

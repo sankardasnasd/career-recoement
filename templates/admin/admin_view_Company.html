@@ -1,0 +1,53 @@
+{% extends 'admin/adminindex.html' %}
+{% block body %}
+<form method="post" action="/myapp/view_Company_post/#about">
+    {% csrf_token %}
+<table class="pull-left ">
+        <tr>
+            <td><input type="text" class="form-control" name="searching" placeholder="Enter Company Name "></td>
+            <td><input type="submit" class="btn btn-outline-primary rounded-start-5" value="Search"></td>
+        </tr>
+
+    </table>
+<br>
+    <table class="table table-bordered">
+         <tr>
+
+
+             <th>SlNo</th>
+             <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Logo</th>
+             <th>Address</th>
+
+            <td></td>
+            <td></td>
+        </tr>
+
+
+        {% for i in data %}
+        <tr>
+            <td width="50px">{{ forloop.counter }}</td>
+            <td>
+
+                {{ i.name }}
+            </td>
+            <td>{{ i.email  }}</td>
+            <td>{{ i.phone }}</td>
+
+            <td width="100px"><img src="{{ i.image }}" width="100px" height="100px"><br></td>
+            <td>
+                {{ i.place }}<br>
+                {{ i.pin }}<br>
+                {{ i.post }}
+
+            </td>
+
+            <td width="50px"><a href="/myapp/aproving_company/{{ i.LOGIN.id }}" class="btn btn-success">Approve</a> </td>
+            <td width="50px"><a href="/myapp/reject_company/{{ i.LOGIN.id }}" onclick="return confirm('Are you sure ')" class="btn btn-danger">Reject</a> </td>
+        </tr>
+        {% endfor %}
+    </table>
+</form>
+{% endblock %}

@@ -1,0 +1,23 @@
+{% extends 'admin/adminindex.html' %}
+{% block body %}
+    <div class="container ">
+    <div class=" ">
+          <form method="post" action="/myapp/category_post/#about">
+    {% csrf_token %}
+    <table class="table table-hover table-bordered">
+        <tr>
+            <th width="180px">Category</th>
+            <td><input type="text" class="form-control" required name="category" ></td>
+        </tr>
+        <tr>
+            <th></th>
+            <td><input type="submit" class="btn btn-success" ></td>
+        </tr>
+    </table>
+
+</form>
+    </div>
+
+
+    </div>
+{% endblock %}
