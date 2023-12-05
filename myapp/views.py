@@ -762,6 +762,9 @@ def user_profile_new(request):
     var=User.objects.get(LOGIN_id=lid)
     return JsonResponse({'status': "ok",'name':var.name,'email':var.email,'phone':var.phone,'gender':var.gender,'image':var.image,'dob':var.dob,'place':var.place,'post':var.post,'pin':var.pin})
 
+
+
+
 def edit_userprofile(request):
 
     lid = request.POST['loginid']

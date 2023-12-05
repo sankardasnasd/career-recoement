@@ -2,320 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="607ccfc4-2a78-49a6-9263-447b319a856f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/20231025-111750.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/20231025-120644.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/20231122-091126.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/category.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user/20231027-155041.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user/20231027-155046.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user/20231027-155149.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user/20231027-155426.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user/20231030-104610.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user/20231122-140643.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user/20231126-101619.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/about.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/slide/aslide-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/slide/slide-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/slide/slide-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/slide/slide-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/team/team-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/team/team-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/team/team-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/img/team/team-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/boxicons/fonts/boxicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/boxicons/fonts/boxicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/boxicons/fonts/boxicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/boxicons/fonts/boxicons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-BlackItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-ExtraBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-ExtraBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-ExtraLight.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-ExtraLightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-MediumItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-SemiBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-SemiBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/poppins/Poppins-ThinItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/ubuntu/Ubuntu-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/ubuntu/Ubuntu-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/ubuntu/Ubuntu-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/ubuntu/Ubuntu-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/ubuntu/Ubuntu-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/ubuntu/Ubuntu-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/ubuntu/Ubuntu-MediumItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/ubuntu/Ubuntu-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/images/bg-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/images/icons/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/lt/images/layer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/lt/images/login2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Careerrecomendation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Careerrecomendation/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Careerrecomendation/asgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Careerrecomendation/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Careerrecomendation/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Careerrecomendation/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0002_category.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0003_user_complaint_company.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0004_skill.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0005_review.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0006_alter_user_dob.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0007_alter_complaint_date.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0008_alter_review_date.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0009_jobs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0010_jobs_skill.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0011_jobs_rating.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0012_application.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0013_rename_dob_user_dob.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0014_alter_user_dob.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0015_own_skill.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0016_experinece.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0017_jobs_totalvacancy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0018_qualification.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0019_myskill_delete_own_skill.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0020_rename_skil_skill_skill.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0021_refference.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0022_rename_course_refference_narration_refference_email_and_more.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0023_refference_user.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0024_jobs_interview_date.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/0025_alter_jobs_interview_date.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/scss/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/animate.css/animate.compat.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/animate.css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/animate.css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap-icons/bootstrap-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap-icons/bootstrap-icons.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap-icons/bootstrap-icons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap-icons/bootstrap-icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-utilities.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-utilities.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-utilities.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap.rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap.rtl.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap.rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.esm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.esm.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.esm.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/bootstrap/js/bootstrap.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/boxicons/css/animations.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/boxicons/css/boxicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/boxicons/css/boxicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/boxicons/css/transformations.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/boxicons/fonts/boxicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/glightbox/css/glightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/glightbox/css/glightbox.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/glightbox/css/plyr.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/glightbox/css/plyr.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/glightbox/js/glightbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/glightbox/js/glightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/isotope-layout/isotope.pkgd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/isotope-layout/isotope.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/php-email-form/validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/purecounter/purecounter_vanilla.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/purecounter/purecounter_vanilla.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/swiper/swiper-bundle.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/swiper/swiper-bundle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/assets/vendor/swiper/swiper-bundle.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/forms/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/forms/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/inner-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/home/portfolio-details.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/css/util.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/iconic/css/material-design-iconic-font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/iconic/css/material-design-iconic-font.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/fonts/ubuntu/UFL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/animate/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/animsition/css/animsition.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/animsition/css/animsition.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/animsition/js/animsition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/animsition/js/animsition.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/js/popper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/js/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/countdowntime/countdowntime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/css-hamburgers/hamburgers.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/css-hamburgers/hamburgers.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/daterangepicker/daterangepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/daterangepicker/daterangepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/daterangepicker/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/daterangepicker/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/jquery/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/perfect-scrollbar/perfect-scrollbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/perfect-scrollbar/perfect-scrollbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/select2/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/select2/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/select2/select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/login/vendor/select2/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/lt/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/lt/css/register.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/lt/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/lt/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/static/lt/w3layouts-license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myapp/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/View_job_review.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/add_jobs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/add_jobs_skill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/company.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/company_change_password.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/company_home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/company_profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/companyindex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/companyreg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/edit_company.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/edit_jobs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/edit_jobs_skill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/view_confirmed_jobs_application.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/view_jobs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/view_jobs_application.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/view_jobs_skill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Company/view_rejected_job_application.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/Admin_change_password.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/View_complaint.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/View_review.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/add_category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/add_skill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/admin_view_Company.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/admin_view_aproved_Company.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/admin_view_rejected_Company.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/adminindex.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/edit_category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/edit_skill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/send_reply.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/view__user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/view_category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/view_jobs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/view_skill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/loginindex.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myapp/views.py" afterPath="$PROJECT_DIR$/myapp/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -331,14 +19,16 @@
         <entry file="file://$PROJECT_DIR$/myapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
-              <caret line="745" column="14" lean-forward="false" selection-start-line="744" selection-start-column="23" selection-end-line="745" selection-end-column="14" />
+              <caret line="828" column="16" lean-forward="false" selection-start-line="828" selection-start-column="0" selection-end-line="843" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#22939#23550#0" expanded="false" />
+                <element signature="e#23592#24773#0" expanded="false" />
                 <element signature="e#24813#25069#0" expanded="false" />
-                <element signature="e#26718#27202#0" expanded="false" />
-                <element signature="e#29552#30055#0" expanded="false" />
-                <element signature="e#32380#32586#0" expanded="false" />
-                <element signature="e#32632#32997#0" expanded="false" />
+                <element signature="e#26721#27205#0" expanded="false" />
+                <element signature="e#29555#30058#0" expanded="false" />
+                <element signature="e#32383#32589#0" expanded="false" />
+                <element signature="e#32635#33000#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -557,7 +247,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -570,8 +259,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Careerrecomendation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Careerrecomendation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -814,20 +518,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1038" extended-state="1" />
+    <frame x="-9" y="-9" width="1938" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3216971" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33136413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3344788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3344788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -894,12 +598,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/myapp/views.py</url>
-          <line>1046</line>
+          <line>1049</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/myapp/views.py</url>
-          <line>938</line>
+          <line>941</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1188,14 +892,16 @@
     <entry file="file://$PROJECT_DIR$/myapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
-          <caret line="745" column="14" lean-forward="false" selection-start-line="744" selection-start-column="23" selection-end-line="745" selection-end-column="14" />
+          <caret line="828" column="16" lean-forward="false" selection-start-line="828" selection-start-column="0" selection-end-line="843" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#22939#23550#0" expanded="false" />
+            <element signature="e#23592#24773#0" expanded="false" />
             <element signature="e#24813#25069#0" expanded="false" />
-            <element signature="e#26718#27202#0" expanded="false" />
-            <element signature="e#29552#30055#0" expanded="false" />
-            <element signature="e#32380#32586#0" expanded="false" />
-            <element signature="e#32632#32997#0" expanded="false" />
+            <element signature="e#26721#27205#0" expanded="false" />
+            <element signature="e#29555#30058#0" expanded="false" />
+            <element signature="e#32383#32589#0" expanded="false" />
+            <element signature="e#32635#33000#0" expanded="false" />
           </folding>
         </state>
       </provider>
